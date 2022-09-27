@@ -3,9 +3,7 @@ using namespace std;
 //CREADO POR LEIVER PAZMIÑO ReyDemo
 int main() 
 {
-	float L,P,M;
-	cout<<"recuerde poner datos exacto ";
-		cin>>M;
+	float L,P;
 	cout<<"ingrese el primer numero que desea comparar:   ";
 	cin>> L;
 	cout<<"ingrese el segundo numero que desesa comparar:  ";
