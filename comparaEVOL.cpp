@@ -1,8 +1,11 @@
  #include<iostream>
 using namespace std;
+//CREADO POR LEIVER PAZMIÑO ReyDemo
 int main() 
 {
-	float L,P;
+	float L,P,M;
+	cout<<"recuerde poner datos exacto ";
+		cin>>M;
 	cout<<"ingrese el primer numero que desea comparar:   ";
 	cin>> L;
 	cout<<"ingrese el segundo numero que desesa comparar:  ";
